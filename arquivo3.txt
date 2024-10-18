@@ -3,4 +3,4 @@ meu codigo da ramificacao secundaria.
 =======
 meu codigo da ramificacao secundaria
 >>>>>>> secundaria
-minha segunda linha de texto.
+minha segunda linha de texto. Agoara o proximo desenvolvedor adiciona outra linha
